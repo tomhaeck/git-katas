@@ -40,7 +40,10 @@
 2. [Bad-commit](bad-commit/README.md) - Using `git bisect` to find a bad commit.
 3. [bisect](bisect/README.md) - Another kata using `git bisect`.
 4. [pre-push](pre-push/README.md) - A quick exercise in using Git hooks.
+8. [rebase-exec](rebase-exec/README.md) - Run tests on every commit using `git rebase --exec`
+
+
+we will not do
 5. [Investigation](investigation/README.md) - Discover what is going on in a Git repo, figure out what it looks like under the hood.
 6. [Objects](objects/README.md) - A small exercise into Git internals.
 7. [merge-driver](merge-driver/README.md) - Defining a custom merge driver.
-8. [rebase-exec](rebase-exec/README.md) - Run tests on every commit using `git rebase --exec`
